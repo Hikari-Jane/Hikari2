@@ -188,6 +188,10 @@ nav li a:hover {
     #instagram {
         margin: 40px 10px 0;
     }
+    
+    .wrapper {
+        margin: 10px 3px;
+    }
 }
 
 /* レスポンシブ↑ */
