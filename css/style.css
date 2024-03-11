@@ -197,6 +197,10 @@ nav li a:hover {
     body {
         width: 95vw;
     }
+    
+    .intro-content {
+        font-size: 0.8rem;
+    }
 }
 
 /* レスポンシブ↑ */
