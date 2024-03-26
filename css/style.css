@@ -150,11 +150,12 @@ nav li a:hover {
 
 #references {
     display: flex;
+    flex-wrap: wrap;
 }
 
 #references img {
     width: 400px;
-    height: 250px;
+    height: auto;
     margin: 15px 15px;
 }
 
